@@ -1,0 +1,5 @@
+1, 2, 3, 4, 5, 100, 23,
+1, 1, 1, 1, 7, 1, 29,
+3.4, 5, 1.2, 5,     9,
+t, 7, u.8, 45, ee, t,
+fileData.SumsOfRows.Select tt.Value
